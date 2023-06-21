@@ -1,0 +1,11 @@
+{
+    "app": {
+      "port": 8000,
+      "hostname": "myapp.com"
+    },
+    "smtp": {
+      "host": "smtp-gw1.prod.mihost.com",
+      "port": 25
+    }
+  }
+  
